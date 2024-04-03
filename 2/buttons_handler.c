@@ -23,7 +23,6 @@ enum BUTTONS {
     NEXT_BUTTON //пин 3
 };
 
-
 /**
  * @brief Эмуляция прерывания GPIO
  * 

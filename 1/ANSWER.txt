@@ -1,1 +1,6 @@
-Сюда можно вписать ответ
+module.c - Builder
+module.h - Factory Method
+
+
+
+
